@@ -1,0 +1,53 @@
+[
+  {
+    "id": "zhongzisou",
+    "name": "种子搜",
+    "url": "https://m.zhongziso19.xyz",
+    "icon": "https://m.zhongziso19.xyz/favicon.ico",
+    "paths": {
+      "preset": "/list/{k}/{p}",
+      "size": "/list_length/{k}/{p}",
+      "time": "/info-e{p}e4ffbace4d819aad9d9f29a844922cce812"
+    },
+    "xpath": {
+      "group": "//ul[@class='list-group']",
+      "magnet": "./li[1]/a[1]/@href",
+      "name": "./li[1]/a[1]",
+      "size": "./li[2]/dl[1]/dd[2]",
+      "date": "./li[2]/dl[1]/dd[3]"
+    }
+  },
+ {
+    "id": "wuqiango",
+    "name": " 吴谦磁力",
+    "url": "https://wuqianka.top/",
+    "icon": "https://wuqiango.xyz/favicon.ico",
+    "paths": {
+      "preset": "/search?keyword={k}"
+    },
+    "xpath": {
+      "group": "//div[@class='panel panel-default border-radius']",
+      "magnet": "./div[1]/h3[1]/a[1]/@href",
+      "name": "./div[1]/h3[1]/a[1]",
+      "size": "./div[3]/h4[1]/small[1]/span[1]",
+      "date": "./div[3]/h4[1]/small[1]/span[3]",
+      "hot": "./div[3]/h4[1]/small[1]/span[2]"
+   }
+  },
+  {
+    "id": "btsow",
+    "name": " BTSOW ",
+    "url": "https://btsow.click",
+    "icon": "https://btsow.click/favicon.ico",
+    "paths": {
+      "preset": "/search/{k}"
+    },
+    "xpath": {
+      "group": "//div[@class='row']",
+      "magnet": "./a[1]/@href",
+      "name": "./a[1]",
+      "size": "./div[1]",
+      "date": "./div[2]"
+  }
+ }
+]
