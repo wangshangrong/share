@@ -7,3 +7,10 @@ https://github.com/asdjkl6/zx/blob/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%A
 https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
 央视台+卫视台+其他地方台直播源
 https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
+
+
+
+
+
+
+https://github.com/edwardcn612/tvlist/raw/main/file
